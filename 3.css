@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+   padding: 0;
+ }
+ 
+ body{
+   font-family: 'Poppins', sans-serif;
+ }
+ 
+ .cabecalho {
+   background-color: #FFECB2;
+   color:  rgb(0, 0, 0);
+   display: flex ;
+   justify-content: space-around;
+   padding: 24px 0;
+ }
+ 
+ .titulo{
+  text-align: center;
+ }
+ .cabecalho-imagem{
+     width: 20%;
+ 
+ 
+ }
+ 
+ .link-icone{
+   width: 25px;
+   padding: 5 5;
+ 
+ }
+ 
+ .cabecalho-lista-item{
+   display: inline-block;
+   margin: 25px 25px;
+   font-size: 23px;
+ }
+ 
+ 
+ .escola-imagem{
+    width: 200px;
+    padding: 5 5;
+    
+ }
+ 
+ .escola{
+    background-color: #EECBC0;
+   color: rgb(0, 0, 0);
+  
+   
+   align-items: center;
+   padding: 24px 0;
+ }
+
+ .estudante-titulo{
+    padding: 24px 30px;
+    text-align: center;
+
+ }
+
+ 
+ 
+ .escola-div-conteudo{
+
+   text-align: center;
+ }
+
+ .icones-div{
+  margin: 100px;
+   display: grid;
+   grid-template-columns: 33% 33% 33%;
+
+ }
+ .escola-titulo{ 
+   padding: 50px;
+   margin: 10%;
+   text-align: center;
+ }
+ 
+ .nois{
+   margin: 2%;
+   text-align: left;
+ }
+ 
+ .duda1{
+  align-items: center;
+
+ }
+
+ .duda3{
+   width: 150px;
+   padding: 5 5;
+ }
+ 
+ .textin-duda{
+   text-align: left;
+   margin-top: 2%;
+   padding: 5 5;
+   padding-bottom: 2%;
+   }
+
+   .a{
+    text-align:center
+    
+   }
+ 
+   .Lauan3{
+    
+       width: 140px;
+       padding: 5 5;
+
+    }
+    
+    .textin-lauan3{
+       text-align: center;
+       margin-top: 2%;
+       padding: 5 5;
+       padding-bottom: 2%;
+       }
+
+ 
+ .rodape1{
+   background-color: #FFECB2;
+   text-align: center;
+ }
+ 
+ .rodape-imagem{
+   height: 120px;
+   padding: 12px 0;
+ }
